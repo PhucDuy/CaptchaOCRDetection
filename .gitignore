@@ -31,6 +31,6 @@ colab/whoosh_index/
 # Documentation build
 docs/build
 
-.zip
-.jpg
-.png
+*.zip
+*.jpg
+*.png
